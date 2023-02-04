@@ -1,0 +1,19 @@
+body{
+    background-image:url(photo.png);
+    background-size: cover;
+    margin-left: 350px;
+}
+.black{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: relative;
+    display: inline-block;
+}
+.white{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    position:relative;
+    display: inline-block;
+}
